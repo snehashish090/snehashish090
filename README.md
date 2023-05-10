@@ -7,7 +7,5 @@ I have been working on many Personal Projects but I would
 also like to work on real life projects and implement my programming skills into something useful and helpful. 
 I am hopeful that one day I can perhaphs bring some change or do better to do this world by contribuiting my programming skills that I have picked up over the past two years.
 
-Also checkout my Organization below 👇🏽👇🏽👇🏽
 
-Menous Technologies : https://github.com/Menous-Technologies
 
