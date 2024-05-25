@@ -14,7 +14,7 @@ I'm currently focusing on:
 
 ## 📫 How to Reach Me
 - Email: [snehashishlaskar.dev@gmail.com](mailto:snehashishlaskar.dev@gmail.com)
-- LinkedIn: [Snehashish Laskar]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/snehashish-laskar-70980428b/))
+- LinkedIn: [Snehashish Laskar](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/snehashish-laskar-70980428b/))
 - Instagarm: [@snehashish.laskar](https://www.instagram.com/snehashish.laskar/)
 
 ## 🛠️ Languages and Tools
@@ -38,10 +38,5 @@ Feel free to explore my repositories to see the projects I've worked on. I regul
 
 ## ✍️ Recent Blog Posts
 [Blog](http://13.48.32.230/blog)
-
-## ❤️ Support Me
-If you like my work and want to support me, consider buying me a coffee:
-
-<a href="https://www.buymeacoffee.com/snehashish090" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=snehashish090&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Thanks for stopping by! Have a great day! 😄
