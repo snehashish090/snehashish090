@@ -10,7 +10,7 @@ I'm Snehashish Laskar, a passionate software developer, open-source enthusiast, 
 ## 🌱 Learning & Development
 I'm currently focusing on:
 - [TensorFlow](https://www.tensorflow.org)
-- [Flask]([https://link-to-resource.com](https://flask.palletsprojects.com/en/3.0.x/))
+- [Flask](https://link-to-resource.com](https://flask.palletsprojects.com/en/3.0.x/))
 
 ## 📫 How to Reach Me
 - Email: [snehashishlaskar.dev@gmail.com](mailto:snehashishlaskar.dev@gmail.com)
