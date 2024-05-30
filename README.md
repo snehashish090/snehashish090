@@ -37,6 +37,6 @@ Feel free to explore my repositories to see the projects I've worked on. I regul
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=snehashish090&theme=radical)
 
 ## ✍️ Recent Blog Posts
-[Blog](http://13.48.32.230/blog)
+[Blog](https://snehashish.com/blog)
 
 Thanks for stopping by! Have a great day! 😄
