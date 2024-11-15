@@ -4,8 +4,10 @@
 I'm Snehashish Laskar, a passionate software developer, open-source enthusiast, and lifelong learner. Welcome to my GitHub profile!
 
 ## 🔭 Current Projects
+- **[SpotiTube](https://github.com/snehashish090/SpotiTube)**:
+-  **[Shell Automations](https://github.com/snehashish090/automation)**:
 - **[Personal Portfolio](https://github.com/snehashish090/Portfolio)**: 
-- **[Menous DBt](https://github.com/MenousTech/Menous-DB)**: 
+- **[Menous DB](https://github.com/MenousTech/Menous-DB)**: 
 
 ## 🌱 Learning & Development
 I'm currently focusing on:
