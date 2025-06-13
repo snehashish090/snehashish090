@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 Hi there!
-I'm Snehashish Laskar, a passionate software developer, open-source enthusiast, and lifelong learner. Welcome to my GitHub profile!
+I'm Snehashish Laskar, a passionate software developer, open-source enthusiast, and HKUST Student!
 
 ## 🔭 Current Projects
 - **[SpotiTube](https://github.com/snehashish090/SpotiTube)**:
@@ -32,13 +32,6 @@ I'm currently focusing on:
 
 ## 🌐 Explore My Repositories
 Feel free to explore my repositories to see the projects I've worked on. I regularly contribute to open-source projects and love collaborating with others in the community.
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehashish090&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehashish090&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=snehashish090&theme=radical)
 
 ## ✍️ Recent Blog Posts
 [Blog](https://snehashish.com/blog)
