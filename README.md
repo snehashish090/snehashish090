@@ -48,18 +48,6 @@ I'm continuously expanding my skillset and currently deepening my expertise in:
 * **[Flask](https://flask.palletsprojects.com/en/3.0.x/)**: For developing lightweight, efficient, and robust web applications and APIs.
 
 ---
-
-## 📊 My GitHub Stats
-
-[![Snehashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehashish090&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehashish090&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-trophies.vercel.app/?username=snehashish090&theme=dracula)](https://github.com/ryo-ma/github-trophies)
-
----
-
 ## 📫 How to Reach Me
 
 Let's connect! I'm always open to discussing new ideas, potential collaborations, or just chatting about technology and its endless possibilities.
