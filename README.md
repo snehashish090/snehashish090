@@ -8,6 +8,15 @@ I love to build, learn, and contribute! Feel free to explore my repositories, co
 
 ---
 
+## 🌟 Current Projects
+* **[GradieX](https://github.com/snehashish090/GradieX): A Deep Learning Neural Network Engine written from scratch in C++ 
+* **[Connect4](https://github.com/snehashish090/connect4): Reinforced AI Game Agent for Connect 4
+* **[GenreDetect](https://github.com/snehashish090/GenreDetect)**: An audio model to classify clips into Genres
+* **[ChopSticksAI](https://github.com/snehashish090/ChopSticksAI)**: An intelligent AI agent developed using **Q-Learning**, trained to master the classic Chopsticks finger game.
+* **[CustomerChurnAnalysis](https://github.com/snehashish090/CustomerChurnAnalysis)**: A comprehensive **Machine Learning model** aimed at predicting customer churn.
+* **[Auto Mark](https://github.com/snehashish090/Auto-Mark)**: An **AI facial recognition** powered automated attendance system.
+---
+
 ## 💻 Tech Stack
 
 ### **Frontend & UI**
@@ -24,13 +33,6 @@ I love to build, learn, and contribute! Feel free to explore my repositories, co
 
 ---
 
-## 🌟 Current Projects
-
-* **[ChopSticksAI](https://github.com/snehashish090/ChopSticksAI)**: An intelligent AI agent developed using **Q-Learning**, trained to master the classic Chopsticks finger game.
-* **[LinearSolve](https://github.com/snehashish090/LinearSolve)**: A robust Python library designed to efficiently solve systems of **linear equations** in multiple dimensions.
-* **[CustomerChurnAnalysis](https://github.com/snehashish090/CustomerChurnAnalysis)**: A comprehensive **Machine Learning model** aimed at predicting customer churn.
-* **[Auto Mark](https://github.com/snehashish090/Auto-Mark)**: An **AI facial recognition** powered automated attendance system.
-* **[Spotify-Download](https://github.com/snehashish090/spotify)**: A convenient **Spotify-YouTube integration** for streamlined music management.
 
 ---
 
