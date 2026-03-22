@@ -9,8 +9,8 @@ I love to build, learn, and contribute! Feel free to explore my repositories, co
 ---
 
 ## 🌟 Current Projects
-* **[GradieX](https://github.com/snehashish090/GradieX): A Deep Learning Neural Network Engine written from scratch in C++ 
-* **[Connect4](https://github.com/snehashish090/connect4): Reinforced AI Game Agent for Connect 4
+* **[GradieX](https://github.com/snehashish090/GradieX)**: A Deep Learning Neural Network Engine written from scratch in C++ 
+* **[Connect4](https://github.com/snehashish090/connect4)**: Reinforced AI Game Agent for Connect 4
 * **[GenreDetect](https://github.com/snehashish090/GenreDetect)**: An audio model to classify clips into Genres
 * **[ChopSticksAI](https://github.com/snehashish090/ChopSticksAI)**: An intelligent AI agent developed using **Q-Learning**, trained to master the classic Chopsticks finger game.
 * **[CustomerChurnAnalysis](https://github.com/snehashish090/CustomerChurnAnalysis)**: A comprehensive **Machine Learning model** aimed at predicting customer churn.
