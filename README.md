@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# AI/Software Engineer | Student HKUST 
 
 ### Hi there! I'm Snehashish Laskar.
 
